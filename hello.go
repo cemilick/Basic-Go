@@ -1,5 +1,6 @@
-package main
+package main // deklarasi utama
 
+// mengimport fmt
 import "fmt"
 
 func main() {
